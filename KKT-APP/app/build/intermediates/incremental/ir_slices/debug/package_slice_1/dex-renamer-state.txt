@@ -1,0 +1,4 @@
+#Thu Aug 23 10:12:54 IST 2018
+base.0=/Users/rajneeshtalwar/Desktop/KKT/app/build/intermediates/transforms/dexMerger/debug/53
+path.0=classes.dex
+renamed.0=classes.dex
