@@ -133,7 +133,7 @@ if ($uploadOk == 0) {
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
-<body id="main_body" >
+<body id="main_body"  style="background-color: #99CCFF">
 
    <!--	<img id="top" src="top.png" alt="">-->
     <?php Project_form_submitted(); ?>
@@ -144,7 +144,7 @@ if ($uploadOk == 0) {
 if ($_SERVER["REQUEST_METHOD"] <> "POST")
 {
 ?>
-		<form id="form_21150"  class="appnitro" enctype="multipart/form-data" method="post" action="">
+		<form id="form_21150"  class="appnitro" enctype="multipart/form-data" method="post" action=""  style="background-color: 1185cae5">
 					<div class="form_description">
 			<h2>KKT - काम की तलाश</h2>
 			<p>हम आप को केवल काम देने वालों से लिंक करवायेंग, <BR />हम किसी को भी नौकरी दिलवाने की गौरानिटी/वचन नहीं देते !</p>

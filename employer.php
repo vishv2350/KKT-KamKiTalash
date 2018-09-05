@@ -135,7 +135,7 @@ if ($uploadOk == 0) {
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
-<body id="main_body" >
+<body id="main_body"  style="background-color: #99CCFF">
 
    <!--	<img id="top" src="top.png" alt="">-->
     <?php Project_form_submitted(); ?>

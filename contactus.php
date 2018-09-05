@@ -5,7 +5,7 @@
   <title>KKT - काम की तलाश!</title>
 </head>
 
-<body>
+<body  style="background-color: #99CCFF">
 <p>हम आप को केवल काम देने वालों से लिंक करवायेंग, <BR>हम किसी को भी नौकरी दिलवाने की <STRONG>गौरानिटी/वचन</STRONG> नहीं देते !
 </p>
 <BR>
