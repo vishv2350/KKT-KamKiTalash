@@ -1,14 +1,14 @@
 This is app is linked between Employee and Employer and does not gives any guarantee to give jobs to any employee.  It is a social networking app and we get only small charge for support and distribution purposes only. This app is help "Kari-gar" and small Garment employees majority of the employee are illiterate people who is working hard but not get job or need to upgrade there living standard but not much tech savvy. 
 
 
-• Helpful for "Kari-gar" of garment industries and other small scale industries 
-• Helpful for employers those who need a "Kari-gar" for the spacific  small small jobs
-• Get you skill and matched with industries requirements
-• Get Employer need matched with "Kari-gar" skill set
-• Send and post "Kari-gar" details to Empolyer
-• Send and post Employer requirement details to "Kari-gar"
-• Skill and requirement match-making 
-• 
+â€¢ Helpful for "Kari-gar" of garment industries and other small scale industries 
+â€¢ Helpful for employers those who need a "Kari-gar" for the spacific  small small jobs
+â€¢ Get you skill and matched with industries requirements
+â€¢ Get Employer need matched with "Kari-gar" skill set
+â€¢ Send and post "Kari-gar" details to Empolyer
+â€¢ Send and post Employer requirement details to "Kari-gar"
+â€¢ Skill and requirement match-making 
+â€¢ A greatful connection between unemployed worker and a work provider
 
 
 https://github.com/wasabeef/awesome-android-ui
